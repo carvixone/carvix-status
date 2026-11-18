@@ -10,7 +10,7 @@
 # slug) pages PagerDuty through .github/workflows/pagerduty.yml, and closing
 # it resolves the incident. A new site is paged automatically.
 
-owner: cmhdez
+owner: carvixone
 repo: carvix-status
 
 sites:
